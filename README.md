@@ -38,3 +38,6 @@ React
 TypeScript
 next/font
 Geist font by Vercel
+
+#Vercel Dashboard:
+https://vercel.com/bhanubalhara4-gmailcoms-projects/landing-page
